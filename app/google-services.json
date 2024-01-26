@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "976344491248",
+    "firebase_url": "https://easyinvoice-f2bd1-default-rtdb.firebaseio.com",
+    "project_id": "easyinvoice-f2bd1",
+    "storage_bucket": "easyinvoice-f2bd1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976344491248:android:13b6cd5f13b701f1fb4e35",
+        "android_client_info": {
+          "package_name": "com.osmeen.easyinvoice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_ZiNFqEVTURPzHX9C3jj86WQaGqpCE9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
